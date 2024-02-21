@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.zdjecie{
+    float: left;
+    width: 10%;
+    background-color: gray;
+    height: 200px;
+}
+img{
+    height: 180px;
+    padding: 10px;
+}
+.prawo{
+    float: left;
+    width: 30%;
+    background-color: gray;
+    height: 200px;
+    text-align: center;
+}
+.srodek{
+    float: left;
+    clear: both;
+    width: 20%;
+    height: 50%;
+    background-color: darkgrey;
+}
+select{
+    padding: 5px;
+    margin: 20px;
+}
+p{
+    text-align: center;
+    padding: 5px;
+    margin: 20px;
+}
+.klasy{
+    float: left;
+    width: 20%;
+    height: 50%;
+    background-color: darkgrey;
+}
+
+input{
+    margin-left: 80%;
+}
